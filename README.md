@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuriousCoder25
 - 👀 I’m interested in AI computing, IOT, Cybersecurity, and also learning about new tech and topics in Computer Science
-- 🌱 I’m currently learning Data Science, Java, DSA, Operating System, Web Development and Mobile App Development (Flutter).
+- 🌱 I’m currently focused on Data Science, Web Development (Flutter), and mastering DSA.
 - 💞️ I’m looking to collaborate on new projects with enthusiactic people like me.
 - 📫 How to reach me: gauravkathayat12@gmail.com
 - 😄 Pronouns: he/him
