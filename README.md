@@ -3,7 +3,6 @@
 - 🌱 I’m currently focused on Data Science, Web Development (Flutter), and mastering DSA.
 - 💞️ I’m looking to collaborate on AI, IoT, or tech projects that push creative boundaries.
 - 📫 How to reach me: gauravkathayat12@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Geniuses admire simplicity, idiots admire complexity... so I guess I love complex stuff!
 
 <!---
