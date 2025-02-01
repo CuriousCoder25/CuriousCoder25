@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuriousCoder25
 - 👀 I’m interested in AI computing, IOT, Cybersecurity, and also learning about new tech and topics in Computer Science
-- 🌱 I’m currently focused on Data Science, Web Development (Flutter), and mastering DSA.
+- 🌱 I’m currently focused on Data Science, Web Development, and mastering DSA.
 - 💞️ I’m looking to collaborate on AI, IoT, or tech projects that push creative boundaries.
 - 📫 How to reach me: gauravkathayat12@gmail.com
 - ⚡ Fun fact: Geniuses admire simplicity, idiots admire complexity... so I guess I love complex stuff!
