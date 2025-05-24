@@ -1,5 +1,12 @@
-<h2 align="left">- 👋 Hi, I’m Gaurav!<br>- 👀 I’m interested in AI computing, IOT, Cybersecurity, and also learning about new tech and   topics in Computer Science<br>- 🌱 I’m currently focused on Data Science, Web Development, and mastering DSA<br>- I watch anime in my free time<br>- 💞️ I’m looking to collaborate on AI, IoT, or tech projects that push creative boundaries.<br>- 📫 How to reach me: gauravkathayat12@gmail.com<br>- ⚡ Fun fact: Geniuses admire simplicity, idiots admire complexity... so I guess I love complex stuff!</h2>
-
+<h2 align="left">
+- 👋 Hi, I’m Gaurav!<br>
+- 👀 I’m interested in AI computing, IOT, Cybersecurity, and also learning about new tech and topics in Computer Science<br>
+- 🌱 I’m currently focused on Data Science, Web Development, and mastering DSA<br>
+- I watch anime in my free time<br>
+- 💞️ I’m looking to collaborate on AI, IoT, or tech projects that push creative boundaries.<br>
+- 📫 How to reach me: gauravkathayat12@gmail.com<br>
+- ⚡ Fun fact: I once debugged a bug that didn’t exist — turns out, I just needed sleep.
+</h2>
 ###
 
 <div align="center">
