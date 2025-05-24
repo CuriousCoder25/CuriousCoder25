@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Gaurav!  
-- 👀 I’m interested in AI computing, IoT, Cybersecurity, and also learning about new tech and topics in Computer Science  
-- 🌱 I’m currently focused on Data Science, Web Development, and mastering DSA  
-- 🍿 I watch anime in my free time  
-- 💞️ I’m looking to collaborate on AI, IoT, or tech projects that push creative boundaries  
-- 📫 How to reach me: gauravkathayat12@gmail.com  
+<h4 align="left">
+- 👋 Hi, I’m Gaurav!<br>
+- 👀 I’m interested in AI computing, IoT, Cybersecurity, and learning new tech & CS topics<br>
+- 🌱 Currently focused on Data Science, Web Dev & mastering DSA<br>
+- 🍿 I watch anime in my free time<br>
+- 💞️ Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br>
+- 📫 Reach me at: gauravkathayat12@gmail.com<br>
 - ⚡ Fun fact: I once debugged a bug that didn’t exist — turns out, I just needed sleep.
+</h4>
 
 ###
 
