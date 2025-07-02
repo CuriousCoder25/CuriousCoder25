@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwc94svu4y9rc1.gif"  />
+<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2024/06/roronoa-zoro-gif-4.gif"  />
 
 ###
 
