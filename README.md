@@ -17,7 +17,7 @@
 
 ###
 
-[//]: #<img align="right" height="150" src="https://i.pinimg.com/originals/f2/95/e0/f295e0bfc2e646bbf49a50caabcee230.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/f2/95/e0/f295e0bfc2e646bbf49a50caabcee230.gif"  />
 
 ###
 
