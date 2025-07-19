@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Gaurav!<br><br>
 - 👀 I’m interested in AI computing, IoT, Cybersecurity, and learning new tech & CS topics<br><br>
 - 🌱 Currently focused on Data Science, Web Dev & mastering DSA<br><br>
-- 🍿 I watch anime in my free time<br><br>
+- 🍿 I like reading books and watching anime in my free time<br><br>
 - 💞️ Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br><br>
 - 📫 Reach me at: gauravkathayat12@gmail.com<br><br>
 - ⚡ Fun fact: I once debugged a bug that didn’t exist — turns out, I just needed sleep.
