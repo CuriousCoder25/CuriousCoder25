@@ -81,7 +81,7 @@
   <a href="https://www.youtube.com/@Samuel101/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://discord.gg/x8vrb9Yz" target="_blank">
+  <a href="https://discord.gg/QF5DC7EZSJ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="gauravkathayat12@gmail.com" target="_blank">
