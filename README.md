@@ -1,7 +1,7 @@
 <h4 align="left">
 - 👋 Hi, I’m Gaurav!<br><br>
 - 👀 I’m interested in AI, Cryptography, Robotics, Cybersecurity, and learning new emerging tech<br><br>
-- 🌱 Currently focused on Web Dev and Deep Learning Algorithms  <br><br>
+- 🌱 Currently focused on Web Dev and Machine Learning  <br><br>
 - 🍿 I like reading books, playing games, working out and watching anime in my free time<br><br>
 - 💞️ Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br><br>
 - 📫 Reach me at: gauravkathayat12@gmail.com<br><br>
