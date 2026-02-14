@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Gaurav!<br><br>
 - 👀 I’m interested in Machine Learning, Software Development and learning new emerging tech<br><br>
 - 🌱 Currently focused on Data Science and OOPs, DSA in JAVA<br><br>
-- 🍿 I like reading books, playing games, working out and watching anime in my free time<br><br>
+- 🍿 I like reading books, playing games,cooking good food, working out and watching anime in my free time<br><br>
 - 🤝 Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br><br>
 - 📫 Reach me at: gauravkathayat945@gmail.com<br><br>
 - ⚡ Fun fact: I once debugged a bug that didn’t exist — turns out, I just needed sleep.
