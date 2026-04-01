@@ -9,7 +9,7 @@
 </h4>
 
 ###
-*Skills and Tools
+**Skills and Tools
 
 ###
 
