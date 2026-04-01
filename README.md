@@ -1,7 +1,7 @@
 <h4 align="left">
 - 👋 Hi, I’m Gaurav!<br><br>
 - 👀 I’m interested in Machine Learning, Software Development and learning new emerging tech<br><br>
-- 🌱 Currently focused on Data Science and OOPs, DSA in JAVA<br><br>
+- 🌱 Currently focused on Data Science, Low Level Programming, Deep Learing<br><br>
 - 🍿 I like reading books, playing games,cooking good food, working out and watching anime in my free time<br><br>
 - 🤝 Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br><br>
 - 📫 Reach me at: gauravkathayat945@gmail.com<br><br>
