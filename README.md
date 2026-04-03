@@ -1,6 +1,6 @@
 <h4 align="left">
 - 👋 Hi, I’m Gaurav!<br><br>
-- 🔍 Researching the intersection of RL & Imitation Learning — exploring how combining both could lead to more energy-efficient, &emsp;generalizable AI systems<br><br>  
+- 🔍 Researching the intersection of RL & Imitation Learning — exploring how combining both could lead to more energy-efficient, &nbsp;generalizable AI systems<br><br>  
 - 🌱 Currently focused on Data Science, Deep Learning, and Low Level Programming<br><br>
 - 👀 Passionate about Computer Vision, Cybersecurity, and Game Dev on the side 🎮<br><br>
 - 🌿 Currently working on building my Pokemon Red RL agent as a stepping stone into serious research<br></br>
