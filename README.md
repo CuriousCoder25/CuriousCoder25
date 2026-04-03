@@ -1,16 +1,14 @@
-<table>
-  <tr><td>👋</td><td>Hi, I'm Gaurav!</td></tr>
-  <tr><td>&nbsp;</td><td></td></tr>
-  <tr><td>🔍</td><td>Researching RL & Imitation Learning intersections for energy-efficient, generalizable AI systems</td></tr>
-  <tr><td>&nbsp;</td><td></td></tr>
-  <tr><td>🌱</td><td>Currently focused on Data Science, Deep Learning, and Low Level Programming</td></tr>
-  <tr><td>&nbsp;</td><td></td></tr>
-  <tr><td>👀</td><td>Passionate about Computer Vision, Cybersecurity, and Game Dev on the side 🎮</td></tr>
-  <tr><td>&nbsp;</td><td></td></tr>
-  <tr><td>🌿</td><td>Currently working on my Pokemon Red RL agent as a stepping stone into serious research</td></tr>
-  <tr><td>&nbsp;</td><td></td></tr>
-  <tr><td>🍿</td><td>I like reading books, cooking good food, working out and watching anime in my free time</td></tr>
-</table>
+<h4 align="left">
+- 👋 Hi, I’m Gaurav!<br><br>
+- 🔍 Researching the intersection of RL & Imitation Learning — exploring how combining both could lead to more energy-efficient, &nbsp;generalizable AI systems<br><br>  
+- 🌱 Currently focused on Data Science, Deep Learning, and Low Level Programming<br><br>
+- 👀 Passionate about Computer Vision, Cybersecurity, and Game Dev on the side 🎮<br><br>
+- 🌿 Currently working on building my Pokemon Red RL agent as a stepping stone into serious research<br></br>
+- 🍿 I like reading books, cooking good food, working out and watching anime in my free time<br><br>
+- 🤝 Looking to collaborate on AI, IoT, or boundary-pushing tech projects<br><br>
+- 📫 Reach me at: gauravkathayat945@gmail.com<br><br>
+- ⚡ Fun fact: I once debugged a bug that didn’t exist — turns out, I just needed sleep.
+</h4>
 ###
 **Skills and Tools**
 
