@@ -1,18 +1,16 @@
-<ul>
-  <li>👋 Hi, I'm Gaurav!</li><br>
-  <li>🔍 Researching the intersection of RL & Imitation Learning — 
-  exploring how combining both could lead to more energy-efficient, 
-  generalizable AI systems</li><br>
-  <li>🌱 Currently focused on Data Science, Deep Learning, 
-  and Low Level Programming</li><br>
-  <li>👀 Passionate about Computer Vision, Cybersecurity, 
-  and Game Dev on the side 🎮</li><br>
-  <li>🌿 Currently working on my Pokemon Red RL agent as a 
-  stepping stone into serious research</li><br>
-  <li>🍿 I like reading books, cooking good food, working out 
-  and watching anime in my free time</li><br>
-</ul>
-
+<table>
+  <tr><td>👋</td><td>Hi, I'm Gaurav!</td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr><td>🔍</td><td>Researching RL & Imitation Learning intersections for energy-efficient, generalizable AI systems</td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr><td>🌱</td><td>Currently focused on Data Science, Deep Learning, and Low Level Programming</td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr><td>👀</td><td>Passionate about Computer Vision, Cybersecurity, and Game Dev on the side 🎮</td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr><td>🌿</td><td>Currently working on my Pokemon Red RL agent as a stepping stone into serious research</td></tr>
+  <tr><td>&nbsp;</td><td></td></tr>
+  <tr><td>🍿</td><td>I like reading books, cooking good food, working out and watching anime in my free time</td></tr>
+</table>
 ###
 **Skills and Tools**
 
